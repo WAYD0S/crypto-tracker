@@ -48,7 +48,7 @@ img {
   align-items: center;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 700px) {
   .hide-mobile {
     display: none;
   };
